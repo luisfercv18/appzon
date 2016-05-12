@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheSoftwareFactory/lokki-server.git"
+    "url": "https://github.com/luisfercv18/appzon.git"
   },
   "eslintConfig": {
     "env": {

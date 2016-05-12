@@ -1,4 +1,8 @@
 {
+	"scripts": {
+	  "start": "node server.js"
+	},
+	"main": "server.js",
   "name": "lokki-server",
   "version": "0.1.1",
   "dependencies": {
@@ -34,3 +38,5 @@
     }
   }
 }
+
+
